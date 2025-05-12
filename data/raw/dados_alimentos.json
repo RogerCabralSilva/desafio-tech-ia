@@ -1,0 +1,580 @@
+[
+  {
+    "ingredientes": [
+      "arroz branco",
+      "feijão carioca",
+      "peito de frango grelhado",
+      "salada de alface e tomate"
+    ],
+    "calorias": 480,
+    "carboidratos": 65,
+    "proteinas": 35,
+    "gorduras": 8,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "hambúrguer",
+      "pão branco",
+      "queijo processado",
+      "molho especial",
+      "batata frita"
+    ],
+    "calorias": 850,
+    "carboidratos": 80,
+    "proteinas": 30,
+    "gorduras": 50,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["salmão assado", "quinoa", "brócolis cozido no vapor"],
+    "calorias": 520,
+    "carboidratos": 45,
+    "proteinas": 40,
+    "gorduras": 25,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["pizza de calabresa", "refrigerante"],
+    "calorias": 1100,
+    "carboidratos": 120,
+    "proteinas": 40,
+    "gorduras": 60,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["iogurte natural", "frutas vermelhas", "granola"],
+    "calorias": 350,
+    "carboidratos": 40,
+    "proteinas": 15,
+    "gorduras": 12,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["macarrão instantâneo", "tempero artificial"],
+    "calorias": 400,
+    "carboidratos": 55,
+    "proteinas": 10,
+    "gorduras": 18,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "peito de frango grelhado",
+      "arroz integral",
+      "brócolis cozido no vapor",
+      "azeite de oliva"
+    ],
+    "calorias": 420,
+    "carboidratos": 40,
+    "proteinas": 38,
+    "gorduras": 15,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["salmão assado", "quinoa", "aspargos grelhados", "limão"],
+    "calorias": 550,
+    "carboidratos": 48,
+    "proteinas": 42,
+    "gorduras": 28,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "lentilha",
+      "cenoura",
+      "cebola",
+      "espinafre",
+      "alho",
+      "azeite"
+    ],
+    "calorias": 380,
+    "carboidratos": 55,
+    "proteinas": 25,
+    "gorduras": 10,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "atum em lata (água)",
+      "pão integral",
+      "abacate",
+      "tomate"
+    ],
+    "calorias": 350,
+    "carboidratos": 35,
+    "proteinas": 28,
+    "gorduras": 15,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "iogurte natural integral",
+      "morango",
+      "banana",
+      "aveia",
+      "mel"
+    ],
+    "calorias": 320,
+    "carboidratos": 45,
+    "proteinas": 18,
+    "gorduras": 8,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["ovos cozidos", "torrada integral", "queijo cottage"],
+    "calorias": 300,
+    "carboidratos": 25,
+    "proteinas": 22,
+    "gorduras": 14,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "frango frito",
+      "purê de batata instantâneo",
+      "molho gravy"
+    ],
+    "calorias": 780,
+    "carboidratos": 60,
+    "proteinas": 40,
+    "gorduras": 45,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "hambúrguer industrializado",
+      "pão branco",
+      "maionese",
+      "ketchup",
+      "refrigerante"
+    ],
+    "calorias": 950,
+    "carboidratos": 90,
+    "proteinas": 32,
+    "gorduras": 55,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["pizza de pepperoni", "borda recheada com catupiry"],
+    "calorias": 1200,
+    "carboidratos": 110,
+    "proteinas": 45,
+    "gorduras": 70,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["lasanha pré-congelada", "molho branco industrializado"],
+    "calorias": 880,
+    "carboidratos": 85,
+    "proteinas": 35,
+    "gorduras": 50,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["bolo de chocolate com cobertura de brigadeiro"],
+    "calorias": 650,
+    "carboidratos": 80,
+    "proteinas": 8,
+    "gorduras": 35,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["biscoito recheado", "suco de caixinha"],
+    "calorias": 400,
+    "carboidratos": 60,
+    "proteinas": 5,
+    "gorduras": 18,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "tacos com carne moída gordurosa",
+      "queijo cheddar",
+      "sour cream"
+    ],
+    "calorias": 700,
+    "carboidratos": 50,
+    "proteinas": 30,
+    "gorduras": 40,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["sopa de legumes caseira", "pão integral com azeite"],
+    "calorias": 320,
+    "carboidratos": 45,
+    "proteinas": 15,
+    "gorduras": 8,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["wrap de frango grelhado", "alface", "tomate", "hummus"],
+    "calorias": 400,
+    "carboidratos": 40,
+    "proteinas": 30,
+    "gorduras": 18,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "panqueca integral",
+      "frutas frescas",
+      "iogurte desnatado"
+    ],
+    "calorias": 350,
+    "carboidratos": 50,
+    "proteinas": 15,
+    "gorduras": 10,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "cachorro-quente",
+      "pão branco",
+      "salsicha",
+      "mostarda",
+      "catchup"
+    ],
+    "calorias": 580,
+    "carboidratos": 55,
+    "proteinas": 20,
+    "gorduras": 30,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["nuggets de frango", "batata frita", "refrigerante"],
+    "calorias": 720,
+    "carboidratos": 70,
+    "proteinas": 25,
+    "gorduras": 40,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["yakissoba", "molho shoyu industrializado"],
+    "calorias": 600,
+    "carboidratos": 80,
+    "proteinas": 20,
+    "gorduras": 25,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "salada de folhas verdes",
+      "pepino",
+      "tomate cereja",
+      "azeitonas",
+      "vinagrete balsâmico"
+    ],
+    "calorias": 250,
+    "carboidratos": 15,
+    "proteinas": 5,
+    "gorduras": 20,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["pão de forma branco", "margarina", "geleia de mocotó"],
+    "calorias": 280,
+    "carboidratos": 40,
+    "proteinas": 3,
+    "gorduras": 12,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "pão integral",
+      "pasta de amendoim integral sem açúcar",
+      "banana"
+    ],
+    "calorias": 350,
+    "carboidratos": 45,
+    "proteinas": 12,
+    "gorduras": 15,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["bife à parmegiana", "arroz branco", "batata frita"],
+    "calorias": 900,
+    "carboidratos": 70,
+    "proteinas": 50,
+    "gorduras": 50,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "peixe cozido",
+      "legumes salteados (abobrinha, berinjela, pimentão)"
+    ],
+    "calorias": 400,
+    "carboidratos": 30,
+    "proteinas": 35,
+    "gorduras": 18,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "feijoada completa (carne seca, paio, linguiça, feijão preto, arroz branco, couve refogada)"
+    ],
+    "calorias": 1200,
+    "carboidratos": 100,
+    "proteinas": 60,
+    "gorduras": 70,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "bowl de grãos (grão de bico, trigo sarraceno)",
+      "vegetais assados (batata doce, couve-flor)",
+      "molho de tahine"
+    ],
+    "calorias": 500,
+    "carboidratos": 70,
+    "proteinas": 20,
+    "gorduras": 20,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "pizza de calabresa",
+      "borda recheada com catupiry",
+      "refrigerante de cola"
+    ],
+    "calorias": 1200,
+    "carboidratos": 110,
+    "proteinas": 45,
+    "gorduras": 70,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "salada de folhas verdes",
+      "tomate cereja",
+      "pepino",
+      "frango grelhado desfiado",
+      "azeite extra virgem",
+      "vinagre balsâmico"
+    ],
+    "calorias": 350,
+    "carboidratos": 15,
+    "proteinas": 30,
+    "gorduras": 20,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "hambúrguer de carne",
+      "pão integral",
+      "queijo muçarela",
+      "alface americana",
+      "tomate",
+      "cebola roxa",
+      "mostarda dijon"
+    ],
+    "calorias": 600,
+    "carboidratos": 50,
+    "proteinas": 35,
+    "gorduras": 30,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "tacos de carne moída",
+      "tortillas de trigo",
+      "queijo cheddar",
+      "sour cream",
+      "molho picante",
+      "alface picada"
+    ],
+    "calorias": 750,
+    "carboidratos": 60,
+    "proteinas": 30,
+    "gorduras": 45,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "sopa de lentilha",
+      "cenoura",
+      "batata",
+      "cebola",
+      "alho",
+      "azeite"
+    ],
+    "calorias": 300,
+    "carboidratos": 40,
+    "proteinas": 15,
+    "gorduras": 8,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "yakissoba de frango e legumes",
+      "macarrão de trigo",
+      "frango em cubos",
+      "brócolis",
+      "cenoura",
+      "pimentão",
+      "molho shoyu"
+    ],
+    "calorias": 680,
+    "carboidratos": 80,
+    "proteinas": 30,
+    "gorduras": 25,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "wrap integral",
+      "pasta de abacate",
+      "feijão preto",
+      "milho",
+      "pimentão vermelho",
+      "coentro"
+    ],
+    "calorias": 420,
+    "carboidratos": 55,
+    "proteinas": 15,
+    "gorduras": 18,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "cachorro quente",
+      "pão branco",
+      "salsicha",
+      "catchup",
+      "mostarda",
+      "maionese"
+    ],
+    "calorias": 580,
+    "carboidratos": 50,
+    "proteinas": 20,
+    "gorduras": 35,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "smoothie de banana",
+      "aveia",
+      "leite de amêndoas",
+      "pasta de amendoim",
+      "chia"
+    ],
+    "calorias": 380,
+    "carboidratos": 45,
+    "proteinas": 12,
+    "gorduras": 18,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "salmão grelhado",
+      "quinoa cozida",
+      "aspargos no vapor",
+      "limão"
+    ],
+    "calorias": 450,
+    "carboidratos": 30,
+    "proteinas": 40,
+    "gorduras": 20,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "bolo de chocolate",
+      "cobertura de brigadeiro",
+      "granulados"
+    ],
+    "calorias": 600,
+    "carboidratos": 75,
+    "proteinas": 8,
+    "gorduras": 30,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "wrap de frango",
+      "tortilla integral",
+      "frango desfiado",
+      "alface",
+      "tomate",
+      "molho de iogurte"
+    ],
+    "calorias": 400,
+    "carboidratos": 40,
+    "proteinas": 25,
+    "gorduras": 15,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["nuggets de frango", "batata frita", "catchup"],
+    "calorias": 700,
+    "carboidratos": 60,
+    "proteinas": 25,
+    "gorduras": 40,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "salada caprese",
+      "tomate",
+      "mussarela de búfala",
+      "manjericão fresco",
+      "azeite extra virgem"
+    ],
+    "calorias": 300,
+    "carboidratos": 10,
+    "proteinas": 18,
+    "gorduras": 22,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": ["panqueca americana", "xarope de bordo", "manteiga"],
+    "calorias": 450,
+    "carboidratos": 60,
+    "proteinas": 10,
+    "gorduras": 20,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": [
+      "sopa de abóbora",
+      "gengibre",
+      "leite de coco",
+      "sementes de abóbora"
+    ],
+    "calorias": 250,
+    "carboidratos": 30,
+    "proteinas": 5,
+    "gorduras": 12,
+    "classificacao": 1
+  },
+  {
+    "ingredientes": [
+      "pizza marguerita",
+      "molho de tomate",
+      "mussarela",
+      "manjericão"
+    ],
+    "calorias": 800,
+    "carboidratos": 90,
+    "proteinas": 30,
+    "gorduras": 35,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["torta de maçã", "massa folhada", "canela"],
+    "calorias": 500,
+    "carboidratos": 65,
+    "proteinas": 5,
+    "gorduras": 25,
+    "classificacao": 0
+  },
+  {
+    "ingredientes": ["chá verde", "limão", "mel"],
+    "calorias": 50,
+    "carboidratos": 12,
+    "proteinas": 0,
+    "gorduras": 0,
+    "classificacao": 1
+  }
+]
