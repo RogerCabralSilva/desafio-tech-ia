@@ -1,4 +1,4 @@
-# Desafio Técnico - Classificador de Refeições Saudáveis 🍽️🤖
+# Desafio Técnico Classificador de Refeições Saudáveis 🍽️🤖
 
 Este desafio foi criado para avaliar suas habilidades em ciência de dados, machine learning e desenvolvimento de APIs.
 
